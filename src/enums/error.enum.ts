@@ -1,0 +1,10 @@
+export enum ErrorType {
+  UNAUTHORIZED = "UNAUTHORIZED",
+  DATABASE_ERROR = "DATABASE_ERROR",
+  GENERIC_ERROR = "GENERIC_ERROR",
+  NOT_FOUND = "NOT_FOUND",
+  INVALID_INPUT = "INVALID_INPUT",
+  CONFLICT = "CONFLICT",
+  // The AI provider failed, timed out or rate-limited us
+  AI_UNAVAILABLE = "AI_UNAVAILABLE",
+}
