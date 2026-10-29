@@ -2,7 +2,7 @@
 
 A support portal for BookLeaf Publishing with two sides. Authors log in to see their books and royalties, raise support tickets and follow replies. The BookLeaf team works those tickets from an admin queue. Gemini classifies each new ticket, sets its priority and drafts a reply from BookLeaf's knowledge base, and an admin reviews and sends it.
 
-Live demo: _add the deployed URL here_
+Live demo: https://bookleaf-wine.vercel.app/ 
 
 ## Tech stack
 
